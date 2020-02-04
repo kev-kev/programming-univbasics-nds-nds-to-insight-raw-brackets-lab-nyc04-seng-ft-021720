@@ -20,7 +20,7 @@ def directors_totals(nds)
   #
   # Be sure to return the result at the end!
   total = 0
-  while  do
+  while (1<0) do
     
   end
   return total
