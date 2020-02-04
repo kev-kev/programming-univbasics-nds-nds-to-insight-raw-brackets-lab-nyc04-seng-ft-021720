@@ -19,6 +19,9 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
+  directors_with_totals = {}
+  
+  
 end
 
 # First number is the director_index, second number is the movie_index
