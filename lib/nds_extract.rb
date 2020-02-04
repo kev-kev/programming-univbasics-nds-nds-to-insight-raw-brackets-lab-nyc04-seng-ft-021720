@@ -19,7 +19,11 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
-  nil
+  total = 0
+  while  do
+    
+  end
+  return total
 end
 
 pp directors_database
