@@ -33,6 +33,6 @@ def directors_totals(nds)
 end
 
 # First number is director_index, second is movie_index
-pp directors_database[0][:movies][0][:worldwide_gross]
+# pp directors_database[0][:movies][0][:worldwide_gross]
 # Need to iterate through directors and iterate through each of their movies, summing the worldwide gross
 # While the director_index is less than the length of the directors_database...
