@@ -21,5 +21,8 @@ def directors_totals(nds)
   # Be sure to return the result at the end!
 end
 
+# First number is the director_index, second number is the movie_index
+# Getting the director's name- need to iterate the director_index to get each name.
 pp directors_database[0][:name]
+# Getting the gross of a movie for a director. Need to iterate the movie_index for each director
 pp directors_database[0][:movies][0][:worldwide_gross]
