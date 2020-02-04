@@ -20,13 +20,18 @@ def directors_totals(nds)
   #
   # Be sure to return the result at the end!
   total = 0
-  while (1<0) do
-    
+  director_index = 0
+  while (director_index < directors_database.length) do
+    movie_index = 0
+    while () do
+      
+      movie_index += 1
+    end
   end
   return total
 end
 
 # First number is director_index, second is movie_index
 pp directors_database[0][:movies][0][:worldwide_gross]
-# While the director_index is less than the length of the directors_database,
-#
+# Need to iterate through directors and iterate through each of their movies, summing the worldwide gross
+# While the director_index is less than the length of the directors_database...
