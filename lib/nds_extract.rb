@@ -14,6 +14,7 @@ def directors_totals(nds)
       movie_index += 1
     end
     result[directors_database[director_index][:name]] = total
+    director_index += 1
   end
   return result
 end
