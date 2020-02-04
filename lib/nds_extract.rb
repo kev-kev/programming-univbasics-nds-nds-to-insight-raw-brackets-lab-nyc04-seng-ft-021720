@@ -26,7 +26,7 @@ def directors_totals(nds)
   return total
 end
 
-#First number is director_index, second is movie_index
-#pp directors_database[0][:movies][0][:worldwide_gross]
-pp directors_database.length
-#While the director_index is less than the 
+# First number is director_index, second is movie_index
+pp directors_database[0][:movies][0][:worldwide_gross]
+# While the director_index is less than the length of the directors_database,
+#
