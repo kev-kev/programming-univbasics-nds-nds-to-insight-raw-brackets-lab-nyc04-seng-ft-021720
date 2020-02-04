@@ -20,7 +20,7 @@ def directors_totals(nds)
   #
   # Be sure to return the result at the end!
   directors_with_totals = {}
-  
+    
   
 end
 
